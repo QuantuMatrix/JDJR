@@ -11,9 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown testing
 Syntax highlighted code block
 
-`<:bowtie:>`
-:bowtie:
-`:bowtie:`
+
 
 Not getting anywhere
 
