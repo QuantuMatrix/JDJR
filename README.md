@@ -12,6 +12,10 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 `<:bowtie:>`
+:bowtie:
+`:bowtie:`
+
+![Image](:bowtie:)
 
 # Header 1
 ## Header 2
