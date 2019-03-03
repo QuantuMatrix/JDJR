@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my test website!
 
 You can use the [editor on GitHub](https://github.com/QuantuMatrix/JDJR/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -10,6 +10,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
+
+`<:bowtie:>`
 
 # Header 1
 ## Header 2
