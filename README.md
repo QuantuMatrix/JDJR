@@ -4,16 +4,18 @@ You can use the [editor on GitHub](https://github.com/QuantuMatrix/JDJR/edit/mas
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Markdown Legend
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+```markdown testing
 Syntax highlighted code block
 
 `<:bowtie:>`
 :bowtie:
 `:bowtie:`
+
+Not getting anywhere
 
 ![Image](:bowtie:)
 
