@@ -17,8 +17,6 @@ Syntax highlighted code block
 
 Not getting anywhere
 
-![Image](:bowtie:)
-
 # Header 1
 ## Header 2
 ### Header 3
