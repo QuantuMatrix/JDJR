@@ -8,13 +8,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown Legend
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown is a lightweight and easy-to-use syntax for styling your writing. :shipit: It includes conventions for
+
+:bowtie:
 
 ```markdown testing
 Syntax highlighted code block
-
-```&#1F609;```
-`<&#1F609;>`
 
 Not getting anywhere
 
